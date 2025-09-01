@@ -8,8 +8,8 @@
     <div class="links">
       <v-btn text to="/">Home</v-btn>
       <v-btn text to="/test">About</v-btn>
-      <v-btn text to="/Product">Product</v-btn>
-      <v-btn text to="/Contact">Contact</v-btn>
+      <v-btn text to="/test">Product</v-btn>
+      <v-btn text to="/test">Contact</v-btn>
     </div>
   </v-app-bar>
 </template>

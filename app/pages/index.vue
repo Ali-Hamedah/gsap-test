@@ -130,7 +130,6 @@ const t2 = $gsap.timeline({
         start: '0% 95%',
         end: '20% 20%',
         scrub: true,
-        markers: true
       }
     })
   t2.to(cans.value.$el, {
